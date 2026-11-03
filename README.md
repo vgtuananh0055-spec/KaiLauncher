@@ -1,12 +1,12 @@
 <div align="center">
 
-# ❄️ Cryogenic Launcher
+# ❄️ Kai Launcher
 
 ### A modern, futuristic and gamer-focused Minecraft launcher experience for Android.
 
 **Release:** `r1.0.0` · **Platform:** Android · **Package architecture:** `arm64-v8a`
 
-[RussoViller WebPage](https://russoviller.github.io/RussoViller-WebPage/index.html#inicio)
+[RussoViller WebPage](https://vgtuananh0055-spec.github.io/My-web/)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## About
 
-**Cryogenic Launcher** is an Android launcher project developed under the **RussoViller** identity. It aims to bring Minecraft: Java Edition-related features together in a modern interface with its own visual personality, inspired by ice, futuristic technology and gaming aesthetics.
+**kai Launcher** is an Android launcher project developed under the **RussoViller** identity. It aims to bring Minecraft: Java Edition-related features together in a modern interface with its own visual personality, inspired by ice, futuristic technology and gaming aesthetics.
 
 Its visual identity combines dark panels, translucent surfaces, glowing outlines, and shades of ice blue, cyan and turquoise. The goal is to create the feeling of a futuristic, frozen system while keeping navigation and features organized.
 
